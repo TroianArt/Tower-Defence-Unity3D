@@ -1539,14 +1539,14 @@ MonoBehaviour:
     Count: 5
     Rate: 3
   - Enemy: {fileID: 4864745925603574527, guid: ebdbd78fa32706849841c43d1764ecb2, type: 3}
-    Count: 5
-    Rate: 3
-  - Enemy: {fileID: 4864745925603574527, guid: ebdbd78fa32706849841c43d1764ecb2, type: 3}
-    Count: 2
-    Rate: 1
-  - Enemy: {fileID: 4864745925603574527, guid: ebdbd78fa32706849841c43d1764ecb2, type: 3}
     Count: 3
     Rate: 2
+  - Enemy: {fileID: 4864745925603574527, guid: ebdbd78fa32706849841c43d1764ecb2, type: 3}
+    Count: 5
+    Rate: 1.5
+  - Enemy: {fileID: 4864745925603574527, guid: ebdbd78fa32706849841c43d1764ecb2, type: 3}
+    Count: 6
+    Rate: 1
   SpawnPoint: {fileID: 483589863}
   TimeBetweenGroup: 2
   gameManager: {fileID: 196616391}
